@@ -4,17 +4,14 @@
 #include "make_const_nonconst.h"
 
 // 0x09000000
-ALIGNED8 const Texture grass_09000000[] = {
 #include "textures/grass/wf_textures.00000.rgba16.inc.c"
 };
 
 // 0x09000800
-ALIGNED8 const Texture grass_09000800[] = {
 #include "textures/grass/wf_textures.00800.rgba16.inc.c"
 };
 
 // 0x09001000
-ALIGNED8 const Texture grass_09001000[] = {
 #include "textures/grass/wf_textures.01000.rgba16.inc.c"
 };
 
